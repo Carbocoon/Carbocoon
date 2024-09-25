@@ -1,7 +1,6 @@
 - 👋 Hi, I’m H2CO3
 - 👀 I’m interested in computing.
-- 🌱 I’m currently learning Data structures and algorithms
-- 💞️ I’m looking to collaborate on algorithms.
+- 🌱 I’m currently learning DataBase and others!
 - 📫 How to reach me with e-mail:1307603452@qq.com(please introduce yourself first)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
