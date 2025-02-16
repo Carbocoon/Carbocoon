@@ -1,6 +1,6 @@
-- 👋 Hi, I’m H2CO3
+- 👋 Hi, I’m Carbocoon（碳酸狸）！！
 - 👀 I’m interested in computing.
-- 🌱 I’m currently learning DataBase and others!
+- 🌱 I’m currently learning web and others! I have already learnt JavaSE, Python, C++, C.
 - 📫 How to reach me with e-mail:1307603452@qq.com(please introduce yourself first)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
